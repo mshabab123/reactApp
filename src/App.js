@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
 
         <p>
+          بسم الله الرحمن الرحيم
         </p>
 
       </header>
