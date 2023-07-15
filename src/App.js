@@ -1,18 +1,14 @@
 import './App.css';
+import Header from './Header';
 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
-        <p>
-          بسم الله الرحمن الرحيم
-        </p>
-
-      </header>
+      <Header />
     </div>
   );
 }
+
 
 export default App;
